@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Astra Chatbot – AI voice assistant with planner, alarm & themes</td>
-      <td><a href="https://your-live-link1.com" target="_blank">View</a></td>
+      <td><a href="https://qrtxpx.csb.app/" target="_blank">View</a></td>
     </tr>
     <tr>
       <td>Resume Portfolio – A clean, interactive resume webpage</td>
